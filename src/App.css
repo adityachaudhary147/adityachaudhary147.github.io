@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color: #404040;
+    color:#c5aa6a;
+}
+.intro{
+    height: 650px;
+}
+a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+      color:whitesmoke
+  }
+  
+  a:active {
+      color: white;
+  }
+  
+  a:visited {
+      color: white;
+  }
