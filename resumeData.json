@@ -4,7 +4,7 @@
     "occupation": "Intern at Paytm",
     "description": "I breathe ,eat ,sleep ,code",
     "image": "profilepic.jpeg",
-    "bio": "Hi there! I am Aditya! I live the moment when i participate in developing websites, projects creating impact on huge scale.As a developer I've worked as an intern at a few places to help build & scale their companies.",
+    "bio": "Hi there! I am Aditya! I live the moment when I participate in developing websites projects, creating an impact on a considerable scale. As a developer, I've worked as an intern at a few places to help build & scale their companies.",
     "contactmessage": "Get in touch with me if you want to hire me or help in your coding career",
     "email": "chaudharyaditya.in@gmail.com",
     "phone": "+91 98995952XX",
@@ -49,7 +49,7 @@
         "company": "Paytm",
         "title": "Intern",
         "years": "JAN 2022 - Present",
-        "description": "Builing reactjs websites at scale for india"
+        "description": "Here , I am using ReactJS at scale."
       },{
         "company": "Merkle Sokrati",
         "title": "Associate SDE- Intern",
@@ -58,12 +58,12 @@
       },{
         "company": "IIRS/ISRO",
         "title": "Intern",
-        "years": "May 2020 July 2020 ",
-        "description": "Trained a  Neural Network for mapping longitute and latitude on images of New Delhi Airport"
+        "years": "May 2021 July 2021 ",
+        "description": "I trained a  Neural Network to map exact longitude and latitude for airplane locations on New Delhi IGI Airport images."
       },{
         "company": "FirstAIL",
         "title": "Intern",
-        "years": "Apr 2020 May 2020 ",
+        "years": "Apr 2021 May 2021",
         "description": "Built Mindq a Question/Answer portal for courses website"
       }
     ],
@@ -121,18 +121,6 @@
         "category": "",
         "image": "Spacex.png",
         "url": "https://github.com/adityachaudhary147/spacex"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
       }
     ]
   }
