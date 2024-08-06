@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Aditya Chaudhary",
-    "occupation": "Intern at Paytm",
-    "description": "I breathe ,eat ,sleep ,code",
+    "occupation": "SOftware Engineer @ Zuora",
+    "description": "I eat, sleep, code, gym",
     "image": "profilepic.jpeg",
-    "bio": "Hi there! I am Aditya! I live the moment when I participate in developing websites projects, creating an impact on a considerable scale. As a developer, I've worked as an intern at a few places to help build & scale their companies.",
-    "contactmessage": "Get in touch with me if you want to hire me or help in your coding career",
+    "bio": "Hi there! I am Aditya! I live the moment when I participate in developing websites projects, creating an impact on a considerable scale.",
+    "contactmessage": "Get in touch with me email or dm me on twitter",
     "email": "chaudharyaditya.in@gmail.com",
     "phone": "+91 98995952XX",
     "address": {
@@ -14,7 +14,7 @@
       "state": "Haryana",
       "zip": "121004"
     },
-    "website": "https://147chaudhary. e",
+    "website": "https://147chaudhary.in",
     "resumedownload": "https://drive.google.com/file/d/1t45fdlU_nRWWjbLXNBmxjMHYlsnNCxJ0/view?usp=sharing",
     "social": [
       {
@@ -23,9 +23,9 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/147chaudhary/",
-        "className": "fa fa-instagram"
+        "name": "twitter",
+        "url": "https://www.twitter.com/147chaudhary/",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
@@ -41,15 +41,27 @@
         "school": "NIT Jalandhar",
         "degree": "Bachelor's in Technology Degree, Information Technology",
         "graduated": "July  2022",
-        "description": "CGPA 8.1"
+        "description": "CGPA 8.13"
       }
     ],
     "work": [
       {
+        "company": "Zuora",
+        "title": "Software Engineer II",
+        "years": "Sep 2022 - Present",
+        "description": "Full Stack Software Engineer"
+      },
+      {
+        "company": "Paytm",
+        "title": "Software Engineer",
+        "years": "Jun 2022 - Sep 2022",
+        "description": "Team Recharges and Utilities"
+      },
+      {
         "company": "Paytm",
         "title": "Intern",
-        "years": "JAN 2022 - Present",
-        "description": "Here , I am using ReactJS at scale."
+        "years": "JAN 2022 - Jun 2022",
+        "description": " Reactjs "
       },{
         "company": "Merkle Sokrati",
         "title": "Associate SDE- Intern",
@@ -57,14 +69,9 @@
         "description": "Buit Nodejs Microservices apis for Ultratech client"
       },{
         "company": "IIRS/ISRO",
-        "title": "Intern",
+        "title": "SWE Intern",
         "years": "May 2021 July 2021 ",
         "description": "I trained a  Neural Network to map exact longitude and latitude for airplane locations on New Delhi IGI Airport images."
-      },{
-        "company": "FirstAIL",
-        "title": "Intern",
-        "years": "Apr 2021 May 2021",
-        "description": "Built Mindq a Question/Answer portal for courses website"
       }
     ],
     "skills": [
@@ -73,12 +80,12 @@
         "level": "80%"
       },
       {
-        "name":"Django",
-        "level":"50%"
+        "name":"Java",
+        "level":"80%"
       },
       {
         "name": "JavaScript",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "Python",
