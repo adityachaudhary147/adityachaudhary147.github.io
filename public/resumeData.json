@@ -1,26 +1,31 @@
 {
   "main": {
     "name": "Aditya Chaudhary",
-    "occupation": "Intern at Paytm",
-    "description": "I breathe ,eat ,sleep ,code",
+    "occupation": "Software Engineer",
+    "description": "I like to build fun and cool stuff Also, I lift weights and read books.",
     "image": "profilepic.jpeg",
-    "bio": "Hi there! I am Aditya! I live the moment when I participate in developing websites projects, creating an impact on a considerable scale. As a developer, I've worked as an intern at a few places to help build & scale their companies.",
+    "bio": "Heyy Hii, Thanks for visiting here, I am a Software Engineer having keen interest large scale distributed systems and over all systems at scale, probably one day want to lead developemnt of one such system, would love to connect with you just drop me hi on any of my socials.",
     "contactmessage": "Get in touch with me if you want to hire me or help in your coding career",
     "email": "chaudharyaditya.in@gmail.com",
-    "phone": "+91 98995952XX",
+    "phone": "+91 989959XXXX",
     "address": {
       "street": "",
       "city": "Faridabad",
       "state": "Haryana",
       "zip": "121004"
     },
-    "website": "https://147chaudhary. e",
+    "website": "https://147chaudhary.in",
     "resumedownload": "https://drive.google.com/file/d/1t45fdlU_nRWWjbLXNBmxjMHYlsnNCxJ0/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/147chaudhary",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/iadityayax",
+        "className": "fa fa-twitter"
       },
       {
         "name": "instagram",
